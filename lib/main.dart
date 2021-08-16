@@ -38,15 +38,9 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text(widget.title),
+      appBar: AppBar(
+        title: Text('Push Notification'),
       ),
-      body:Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Text('Welcome to HoodCoffee')
-          ],
-        )) 
     );
   }
 
