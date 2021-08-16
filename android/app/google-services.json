@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608157644568",
+    "project_id": "testpushnoti-ea545",
+    "storage_bucket": "testpushnoti-ea545.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608157644568:android:7221746462b096bfc0d06d",
+        "android_client_info": {
+          "package_name": "com.company.testpushnoti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608157644568-uajobrlrt7kkk7fouhgf7ovgc2hijla3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVu4lScdRThyEcg4kuMiBVZ7unWaQCjdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608157644568-uajobrlrt7kkk7fouhgf7ovgc2hijla3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
